@@ -39,6 +39,7 @@ tic-tac-toe/
 ├── style.css
 ├── script.js
 └── README.md
+```
 
 
 ## 🚀 Live Demo
