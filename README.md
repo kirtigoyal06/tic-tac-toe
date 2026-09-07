@@ -39,3 +39,9 @@ tic-tac-toe/
 ├── style.css
 ├── script.js
 └── README.md
+
+## 🚀 Live Demo
+
+🎮 Play the game here:
+
+[Tic Tac Toe](https://kirtigoyal06.github.io/tic-tac-toe/)
