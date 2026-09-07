@@ -40,8 +40,9 @@ tic-tac-toe/
 ├── script.js
 └── README.md
 
+
 ## 🚀 Live Demo
 
-🎮 Play the game here:
+👉 **[Tic Tac Toe](https://kirtigoyal06.github.io/tic-tac-toe/)**
 
-[Tic Tac Toe](https://kirtigoyal06.github.io/tic-tac-toe/)
+Try the game live in your browser!
